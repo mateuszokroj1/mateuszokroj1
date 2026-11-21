@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Mateusz Okrój @mateuszokroj1
-- 👀 Currently, I'm software development engineer in OptiNav from Carl Zeiss Group
-- 🌱 I’m currently learning C# 10, .NET 6, C++ 20, CMake, OpenGL, SSE/AVX
+- 👀 Currently, I'm software development engineer in Zeiss IQS Software R&D Center in Slupsk, Poland (part of Carl Zeiss Group)
+- 💻 I’m working everyday with technologies: C++ 23, CMake, Qt 6 (Qt Widgets), QML, gtest/gmock, Python, Azure DevOps, VS Code.
+- 👨‍💻 In free time I'm interested in technologies: C# 10/.NET, TypeScript, Windows Server administration, Linux administration (mainly Ubuntu), Docker, Kubernetes, PowerShell scripting
