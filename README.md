@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Mateusz Okrój @mateuszokroj1
 - 👀 Currently, I'm software development engineer in Zeiss IQS Software R&D Center in Slupsk, Poland (part of Carl Zeiss Group)
 - 💻 I’m working everyday with technologies: C++ 23, CMake, Qt 6 (Qt Widgets), QML, gtest/gmock, Python, Azure DevOps, VS Code.
-- 👨‍💻 In free time I'm interested in technologies: C# 10/.NET, TypeScript, Windows Server administration, Linux administration (mainly Ubuntu), Docker, Kubernetes, PowerShell scripting
+- 👨‍💻 In free time I'm interested in technologies: C# 10/.NET, TypeScript, NodeJS, React (web and Native), HTML/CSS, Windows Server administration, Linux administration (mainly Ubuntu and Red Hat), Docker, Kubernetes, PowerShell scripting.
+- 🎛️ My other hobbies are photography, videography, video editing, sound engineering, live sound mixing, sound system calibration, music mixing and mastering
